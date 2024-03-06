@@ -1,4 +1,4 @@
-# NestJS File Upload and Compression Example
+# NestJS File Upload and Compression
 
 This is a NestJS application demonstrating how to implement file upload and compression using NestJS framework.
 
@@ -24,13 +24,11 @@ To get started, follow these steps:
    npm start
    ```
 
-3. **Start and monitor the NestJS application:**
+4. **Start and monitor the NestJS application:**
 
    ```bash
    npm run start:dev
    ```
-
-
 
 The application should now be running locally at `http://localhost:3000`.
 
